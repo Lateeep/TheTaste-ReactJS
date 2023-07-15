@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thetaste/static/css/main.53f82d38.css",
+    "main.js": "/thetaste/static/js/main.a7cb1652.js",
+    "static/media/header_image.jpg": "/thetaste/static/media/header_image.1e539b6b0b20b968241b.jpg",
+    "static/media/loader.svg": "/thetaste/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "index.html": "/thetaste/index.html",
+    "main.53f82d38.css.map": "/thetaste/static/css/main.53f82d38.css.map",
+    "main.a7cb1652.js.map": "/thetaste/static/js/main.a7cb1652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f82d38.css",
+    "static/js/main.a7cb1652.js"
+  ]
+}
